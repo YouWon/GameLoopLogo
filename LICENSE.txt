@@ -1,0 +1,4 @@
+COPYRIGHT (c) 2017 YouWon (https://github.com/YouWon). All Rights Reserved.
+Licensed under the Creative Commons Attribution-NonCommercial-NoDerivs 2.0
+https://creativecommons.org/licenses/by-nc-nd/2.0/
+https://raw.githubusercontent.com/YouWon/GameLoopLogo/master/cc-at-nc-nd.2.0.html
